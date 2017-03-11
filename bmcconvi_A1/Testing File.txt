@@ -1,0 +1,4 @@
+Test Cases:										result:
+Setting all values to be blank								The int values will still prompt till they get a values
+Setting a the search string equal to title      					The activity is outputted with toString
+Check menu(input characters and long strings)   					Tests show no crashing and valid prompts for user to correct their mistakes
